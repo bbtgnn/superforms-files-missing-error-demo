@@ -1,13 +1,9 @@
 ## Instructions
 
-```
-npm i
-npm run dev
-```
-
-1. Open the browser
-2. Upload the images found in `src/routes/test_files`
-3. Check the console logs.
+1. Clone repo and setup: `npm i && npm run dev`
+2. Open the browser
+3. Upload the images found in `src/routes/test_files`
+4. Check the console logs.
 
 ---
 
