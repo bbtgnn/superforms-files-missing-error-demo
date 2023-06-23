@@ -5,7 +5,9 @@ npm i
 npm run dev
 ```
 
-Then check the console logs.
+1. Open the browser
+2. Upload the images found in `src/routes/test_files`
+3. Check the console logs.
 
 ---
 
